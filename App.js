@@ -212,7 +212,7 @@ export default class App extends React.Component {
               />
             </TouchableOpacity>
           )}
-        />s
+        />
       </ImageBackground>
     </View>    
     );
